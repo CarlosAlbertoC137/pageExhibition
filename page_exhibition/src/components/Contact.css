@@ -1,0 +1,23 @@
+.contact h2 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.contact-container ul {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+}
+
+.contact-container img {
+  width: 80px;
+  height: auto;
+}
+
+.contact-container li {
+  list-style: none;
+}
+
+#whats-logo {
+  border-radius: 12px;
+}

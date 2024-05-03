@@ -1,0 +1,18 @@
+.more-projects {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 5rem;
+}
+.more-projects img {
+  width: 150px;
+  height: 150px;
+}
+.more-projects p {
+  margin-top: 12rem;
+  font-weight: bold;
+}
+
+.look-more {
+  margin-top: 2rem;
+}

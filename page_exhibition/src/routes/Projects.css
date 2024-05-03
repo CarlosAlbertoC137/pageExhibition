@@ -1,0 +1,18 @@
+.project-container {
+  text-align: center;
+}
+
+.project-container img {
+  width: 70%;
+  height: auto;
+  border-radius: 5px;
+  box-shadow: -1px -1px 45px -7px rgb(172, 172, 172);
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.project-container h4,
+.project-container p {
+  margin: 0.5rem 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

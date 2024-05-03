@@ -1,0 +1,50 @@
+header {
+  text-align: center;
+  margin-top: 80px;
+}
+
+header h2 {
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+header p {
+  font-weight: bold;
+  color: #252525;
+}
+
+#personal-photo {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+}
+
+.logo-container {
+  width: 350px;
+  height: 350px;
+  display: grid;
+  place-items: center;
+  grid-template-columns: repeat(2, 50%);
+  grid-column-end: repeat(1, 100%);
+}
+
+.logo-container img {
+  width: 100px;
+  height: 100px;
+  border-radius: 6px;
+}
+
+.body {
+  display: grid;
+  place-items: center;
+  grid-template-columns: repeat(2, 47%);
+  margin-top: 8rem;
+  width: 100%;
+}
+
+.body p {
+  font-weight: bold;
+  font-size: 1.4rem;
+  text-align: center;
+}

@@ -1,0 +1,33 @@
+hr {
+  width: 80%;
+  margin: 2rem auto 3rem;
+}
+
+.projects-container {
+  margin: 0 auto;
+  width: 800px;
+  height: 550px;
+  box-shadow: -1px -1px 45px -7px rgb(172, 172, 172);
+  border-radius: 5px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.projects-container h2 {
+  padding-top: 0.5rem;
+}
+
+.projects-container button {
+  padding: 0 15px;
+  margin: 0.5rem 1rem;
+  background-color: #138bf4;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.projects-container button:hover {
+  background-color: #e2e2e2;
+  color: #138bf4;
+}
